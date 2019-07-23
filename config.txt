@@ -1,6 +1,6 @@
-token= token
-owner= id owner
-prefix= prefix
-game= game
+token= NTk0MTkyNDM3MzQyMjQwNzY5.XTcnGQ.ClWP_x6-Cxp-T-CvMBbqULi0hTw
+owner= 463192195663527950
+prefix= 1
+1play= play
 stayinchannel=true 
 songinstatus=false 
