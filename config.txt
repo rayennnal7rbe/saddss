@@ -1,0 +1,6 @@
+token= token
+owner= id owner
+prefix= prefix
+game= game
+stayinchannel=true 
+songinstatus=false 
